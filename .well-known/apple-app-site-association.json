@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.repeatmd.mobile",
+        "paths": [ "/home/*", "/rewards" ]
+      }
+    ]
+  }
+}
